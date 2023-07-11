@@ -20,7 +20,7 @@ def handle_error(address: str):
 def check_cluster_health(addresses: list[str]):
     print(f"Checking cluster health {addresses}")
 
-    for address in list(addresses.addresses):
+    for address in list(addresses):
         if address == config.our_url:
             continue
 
