@@ -4,6 +4,10 @@
 
 - Gustavo de Almeida Freitas Santos
 
+## Github
+
+[Link](https://github.com/Focadecombate/chain)
+
 ## Como executar
 
 ### Requisitos
@@ -14,6 +18,7 @@
 ### Instalação
 
 ```bash
+cd src
 poetry install
 ```
 
